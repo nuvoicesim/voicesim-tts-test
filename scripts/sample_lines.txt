@@ -1,0 +1,4 @@
+# One utterance per line for batch TTS generation
+I... need help speaking.
+My right arm feels weak today.
+Can you repeat the instructions more slowly?

@@ -1,0 +1,9 @@
+{
+  "profileId": "broca_aphasia_female_elderly_anxious",
+  "voiceId": "VOICE_ID_PLACEHOLDER",
+  "modelId": "eleven_multilingual_v2",
+  "stability": 0.4,
+  "similarityBoost": 0.75,
+  "styleExaggeration": 0.3,
+  "speed": 1.0
+}

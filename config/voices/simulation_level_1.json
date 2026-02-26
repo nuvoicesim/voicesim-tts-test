@@ -1,0 +1,9 @@
+{
+  "profileId": "simulation_level_1",
+  "voiceId": "QXFI3J7JB0fOlMwKDUxE",
+  "modelId": "eleven_multilingual_v2",
+  "stability": 0.4,
+  "similarityBoost": 0.75,
+  "styleExaggeration": 0.3,
+  "speed": 1.0
+}
